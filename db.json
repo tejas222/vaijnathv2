@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "abcd",
+      "email": "tejasj15@gmail.com",
+      "phone": "987655252",
+      "password": "123456"
+    },
+    {
+      "name": "Veda Mueller",
+      "phone": "+1 (774) 166-2045",
+      "email": "kelipin@mailinator.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Sybil Hebert",
+      "phone": "+1 (589) 998-4261",
+      "email": "mazuqenut@mailinator.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Plato Hayes",
+      "phone": "+1 (962) 631-2887",
+      "email": "zacok@mailinator.com",
+      "password": "123456",
+      "id": 5
+    }
+  ]
+}
